@@ -20,3 +20,4 @@ ul.feat{padding-left:20px;color:#dfe4ee}ul.feat li{margin:6px 0}
 .doc{max-width:760px}.doc h1{font-size:36px;margin-top:20px}.doc h2{font-size:22px;margin-top:32px}.doc p,.doc li{color:#dfe4ee}
 footer{border-top:1px solid var(--line);margin-top:64px;padding:24px 0 40px;color:var(--mut);font-size:14px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 @media (max-width:600px){.links{gap:12px;font-size:14px}.hero img{aspect-ratio:4/5}}
+.video{border-radius:18px;overflow:hidden;border:1px solid var(--line);background:#000}.video video{display:block;width:100%;aspect-ratio:16/9}
