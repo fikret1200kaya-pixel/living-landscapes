@@ -45,3 +45,4 @@ nav{position:sticky;top:0;z-index:30;background:rgba(14,19,36,.55);backdrop-filt
 .video{box-shadow:0 30px 80px -30px rgba(120,140,255,.3)}
 h2{background:linear-gradient(90deg,#fff,#f6d2b0);-webkit-background-clip:text;background-clip:text;color:transparent}
 ul.feat li::marker{color:var(--acc)}
+.yt{margin:-8px 0 14px;font-weight:600}.yt a{text-decoration:none}
