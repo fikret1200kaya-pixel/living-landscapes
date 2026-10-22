@@ -7,6 +7,6 @@ Interactive 3D live wallpapers for Windows — five living landscapes that follo
 - Support: https://fikret1200kaya-pixel.github.io/living-landscapes/support.html
 - YouTube (EN): https://youtu.be/XqiQHJG-h3U
 - YouTube (TR): https://youtu.be/Cjd13GLaZOU
-- Microsoft Store: https://apps.microsoft.com/detail/9N3HK0GBT23X (coming soon)
+- Microsoft Store: https://apps.microsoft.com/detail/9N3HK0GBT23X
 
 © 2026 EfkaAjans. All rights reserved.
